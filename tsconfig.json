@@ -6,8 +6,8 @@
         "outDir": "js",
         "watch": true,
         "allowJs": true,
-        "lib": ["ES2020", "DOM"],
-        "module": "System"
+        "lib": ["ES5", "DOM"],
+        "module": "CommonJS"
     },
     "include": [
         "ts"
