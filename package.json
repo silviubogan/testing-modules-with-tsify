@@ -1,0 +1,18 @@
+{
+  "name": "tsify-module-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ts/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@popperjs/core": "^2.2.1",
+    "howler": "^2.1.3",
+    "tsify": "^4.0.1",
+    "typescript": "^3.8.3",
+    "wpapi": "^1.2.1"
+  }
+}

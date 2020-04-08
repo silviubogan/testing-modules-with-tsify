@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "js",
+        "watch": true,
+        "allowJs": true,
+        "lib": ["ES2020", "DOM"],
+        "module": "System"
+    },
+    "include": [
+        "ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
