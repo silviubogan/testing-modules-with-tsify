@@ -1,1 +1,1 @@
-watchify --debug ts/main.ts -p [ tsify -p tsconfig.json ] -o js/bundle.js -v
+watchify --debug ts/main.ts -p [ tsify -p tsconfig.json --traceResolution ] -o js/bundle.js -v
