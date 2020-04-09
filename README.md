@@ -20,3 +20,7 @@ The output changes according to the module system in use. I do not know which on
 # Update 2
 
 The output of `./watch.sh` is [here](https://gist.github.com/silviubogan/6df042228f50a7575e788f8f3b1d0b7d). At the end is the same error.
+
+# Update 3
+
+The issue was solved, see the commit before the last commit.
