@@ -1,5 +1,5 @@
-export module Utils {
-    function getBrowserLanguage() : string {
+export class Utils {
+    static getBrowserLanguage() : string {
         return "test";
     }
 };
